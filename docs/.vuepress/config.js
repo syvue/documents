@@ -37,6 +37,6 @@ module.exports = {
             }
         ],
         sidebarDepth: 1,
-        repo:"syvue/documents"
+        repo:"https://github.com/syvue/documents.git"
     }
 }
