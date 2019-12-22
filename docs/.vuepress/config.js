@@ -1,7 +1,6 @@
 module.exports = {
     title: 'VuePress快速入门', // 标题
     description: 'VuePress教程', //项目描述 
-    base:'/documents/',
     head: [                 //配置图标
         ['link',{
             rel:'icon',
@@ -36,7 +35,6 @@ module.exports = {
                 children:['/pages/css']
             }
         ],
-        sidebarDepth: 1,
-        repo:'syvue/documents'
+        sidebarDepth: 1
     }
 }
